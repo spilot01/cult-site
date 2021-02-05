@@ -1,0 +1,84 @@
+/* Selector {
+    Property: value;
+} */
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+
+
+body {
+    background-image: url(GIGER.JPG)
+}
+
+
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    border: 5px solid rgba(170, 57, 57, 0.2);
+    box-shadow:mintcream;
+    /* width: 400px; */
+    /* text-align: center; */
+    font-family: fantasy;
+    /* font-style: inherit; */
+    font-size: 3em;
+    font-family: 'Hanalei', cursive;
+    /* cursor: pointer; */
+    color: red;
+}
+
+
+
+h2:hover {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: underline;
+    border: 5px double  rgba(170, 57, 57, 0.2);
+    font-style: inherit;
+    color: red
+}
+
+
+
+h3:hover {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: underline;
+    font-style: inherit;
+    font-variant: unset;
+    border: 5px double  rgba(170, 57, 57, 0.2);
+    color: red
+    
+}
+
+
+ul {
+    color: red
+}
+
+
+body {
+    background-color: black
+}
+
+
+li {
+    text-align: center;
+    font-style: unset;
+    color: cornsilk;
+    list-style: none;
+
+}
+
+img:hover {
+    transform: scale(1.2)
+}
+
+li:hover {
+     transform: scale(3)
+}
+
